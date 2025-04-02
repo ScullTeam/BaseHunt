@@ -4,3 +4,10 @@
 Поиск по LeakOsint
 Поиск по Doxbin
 Поиск по Reveng
+
+# Установка
+git clone https://github.com/ScullTeam/BaseHunt.git
+
+cd BaseHunt
+
+python basehunt.py
